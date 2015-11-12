@@ -5,7 +5,7 @@ Pass the access.log or access_log file name when asked and wait unitl results ar
 
 From the script:
 
-             === ACCESS LOG ANALYSER ===                      
+             === ACCESS LOG ANALYZER ===                      
                                                               
 Please enter the access.log or access_log location       
                                                               
